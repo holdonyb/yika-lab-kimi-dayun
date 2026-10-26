@@ -67,4 +67,4 @@ python pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/annotate_patch.py 
 
 片尾音乐：《天真的橡皮》白水寒版，完整歌曲1.5倍速。[音源条目](https://www.youtube.com/watch?v=Pl84iZnLRDA)。其他底乐和音效为原创合成。过程段包含原始Kimi脚本重跑生成的阶段回放。
 
-本仓库下载内容为脚本、模型、场景和检查记录；完整影片见本期B站投稿。
+本仓库下载内容为脚本、模型、场景和检查记录；[完整影片：Kimi说会建模，那就造辆能跑能拆的大运！](https://www.bilibili.com/video/BV1pcnZ6nEAd/)。
