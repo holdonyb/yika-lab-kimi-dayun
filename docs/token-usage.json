@@ -1,0 +1,17 @@
+{
+  "originalVehicle": {
+    "asOf": "2026-10-26 09:20:01 +08:00",
+    "records": 575,
+    "output": 725369,
+    "inputIncludingCache": 271424941,
+    "cacheRead": 269600821
+  },
+  "clutchRevision": {
+    "records": 82,
+    "output": 84255,
+    "inputIncludingCache": 55126879,
+    "cacheRead": 54402127
+  },
+  "cumulativeOutput": 809624,
+  "method": "Unique native usage.record events; repeated cache reads are counted as input. Codex/Gemini usage is separate."
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "scene": "buttons",
+    "wheel_count": 10,
+    "geometry_radii": {
+      "KimiFrozen_Front_R": 0.5361577753190595,
+      "KimiFrozen_Front_R_L": 0.5361577753190595,
+      "KimiFrozen_Mid_R_Inner": 0.5361577157188862,
+      "KimiFrozen_Mid_R_Inner_L": 0.5361577157188862,
+      "KimiFrozen_Mid_R_Outer": 0.5361577157188862,
+      "KimiFrozen_Mid_R_Outer_L": 0.5361577157188862,
+      "KimiFrozen_Rear_R_Inner": 0.5361577753190595,
+      "KimiFrozen_Rear_R_Inner_L": 0.5361577753190595,
+      "KimiFrozen_Rear_R_Outer": 0.5361577753190595,
+      "KimiFrozen_Rear_R_Outer_L": 0.5361577753190595
+    },
+    "maximum_residual_contact_speed_m_s": 0.0026499450843626704,
+    "pass": true,
+    "samples": [
+      {
+        "frame": 18,
+        "truck_velocity_y": -3.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0008822923883213818,
+          "KimiFrozen_Front_R_L": 0.0008822923883213818,
+          "KimiFrozen_Mid_R_Inner": 0.0008819588053481375,
+          "KimiFrozen_Mid_R_Inner_L": 0.0008819588053481375,
+          "KimiFrozen_Mid_R_Outer": 0.0008819588053481375,
+          "KimiFrozen_Mid_R_Outer_L": 0.0008819588053481375,
+          "KimiFrozen_Rear_R_Inner": 0.0008822923883213818,
+          "KimiFrozen_Rear_R_Inner_L": 0.0008822923883213818,
+          "KimiFrozen_Rear_R_Outer": 0.0008822923883213818,
+          "KimiFrozen_Rear_R_Outer_L": 0.0008822923883213818
+        }
+      },
+      {
+        "frame": 36,
+        "truck_velocity_y": -3.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0008792244689219686,
+          "KimiFrozen_Front_R_L": 0.0008792244689219686,
+          "KimiFrozen_Mid_R_Inner": 0.0008788908862897848,
+          "KimiFrozen_Mid_R_Inner_L": 0.0008788908862897848,
+          "KimiFrozen_Mid_R_Outer": 0.0008788908862897848,
+          "KimiFrozen_Mid_R_Outer_L": 0.0008788908862897848,
+          "KimiFrozen_Rear_R_Inner": 0.0008792244689219686,
+          "KimiFrozen_Rear_R_Inner_L": 0.0008792244689219686,
+          "KimiFrozen_Rear_R_Outer": 0.0008792244689219686,
+          "KimiFrozen_Rear_R_Outer_L": 0.0008792244689219686
+        }
+      },
+      {
+        "frame": 44,
+        "truck_velocity_y": -6.125000953674316,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0017936182964994885,
+          "KimiFrozen_Front_R_L": 0.0017936182964994885,
+          "KimiFrozen_Mid_R_Inner": 0.0017929372320155679,
+          "KimiFrozen_Mid_R_Inner_L": 0.0017929372320155679,
+          "KimiFrozen_Mid_R_Outer": 0.0017929372320155679,
+          "KimiFrozen_Mid_R_Outer_L": 0.0017929372320155679,
+          "KimiFrozen_Rear_R_Inner": 0.0017936182964994885,
+          "KimiFrozen_Rear_R_Inner_L": 0.0017936182964994885,
+          "KimiFrozen_Rear_R_Outer": 0.0017936182964994885,
+          "KimiFrozen_Rear_R_Outer_L": 0.0017936182964994885
+        }
+      },
+      {
+        "frame": 49,
+        "truck_velocity_y": -8.208332061767578,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0024142563228988223,
+          "KimiFrozen_Front_R_L": 0.0024142563228988223,
+          "KimiFrozen_Mid_R_Inner": 0.0024133436029369904,
+          "KimiFrozen_Mid_R_Inner_L": 0.0024133436029369904,
+          "KimiFrozen_Mid_R_Outer": 0.0024133436029369904,
+          "KimiFrozen_Mid_R_Outer_L": 0.0024133436029369904,
+          "KimiFrozen_Rear_R_Inner": 0.0024142563228988223,
+          "KimiFrozen_Rear_R_Inner_L": 0.0024142563228988223,
+          "KimiFrozen_Rear_R_Outer": 0.0024142563228988223,
+          "KimiFrozen_Rear_R_Outer_L": 0.0024142563228988223
+        }
+      },
+      {
+        "frame": 54,
+        "truck_velocity_y": -9.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0026499450843626704,
+          "KimiFrozen_Front_R_L": 0.0026499450843626704,
+          "KimiFrozen_Mid_R_Inner": 0.002648944335101433,
+          "KimiFrozen_Mid_R_Inner_L": 0.002648944335101433,
+          "KimiFrozen_Mid_R_Outer": 0.002648944335101433,
+          "KimiFrozen_Mid_R_Outer_L": 0.002648944335101433,
+          "KimiFrozen_Rear_R_Inner": 0.0026499450843626704,
+          "KimiFrozen_Rear_R_Inner_L": 0.0026499450843626704,
+          "KimiFrozen_Rear_R_Outer": 0.0026499450843626704,
+          "KimiFrozen_Rear_R_Outer_L": 0.0026499450843626704
+        }
+      },
+      {
+        "frame": 65,
+        "truck_velocity_y": -9.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0026499450843626704,
+          "KimiFrozen_Front_R_L": 0.0026499450843626704,
+          "KimiFrozen_Mid_R_Inner": 0.002648944335101433,
+          "KimiFrozen_Mid_R_Inner_L": 0.002648944335101433,
+          "KimiFrozen_Mid_R_Outer": 0.002648944335101433,
+          "KimiFrozen_Mid_R_Outer_L": 0.002648944335101433,
+          "KimiFrozen_Rear_R_Inner": 0.0026499450843626704,
+          "KimiFrozen_Rear_R_Inner_L": 0.0026499450843626704,
+          "KimiFrozen_Rear_R_Outer": 0.0026499450843626704,
+          "KimiFrozen_Rear_R_Outer_L": 0.0026499450843626704
+        }
+      },
+      {
+        "frame": 76,
+        "truck_velocity_y": -5.109375,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0014841987712239657,
+          "KimiFrozen_Front_R_L": 0.0014841987712239657,
+          "KimiFrozen_Mid_R_Inner": 0.0014836306397745247,
+          "KimiFrozen_Mid_R_Inner_L": 0.0014836306397745247,
+          "KimiFrozen_Mid_R_Outer": 0.0014836306397745247,
+          "KimiFrozen_Mid_R_Outer_L": 0.0014836306397745247,
+          "KimiFrozen_Rear_R_Inner": 0.0014841987712239657,
+          "KimiFrozen_Rear_R_Inner_L": 0.0014841987712239657,
+          "KimiFrozen_Rear_R_Outer": 0.0014841987712239657,
+          "KimiFrozen_Rear_R_Outer_L": 0.0014841987712239657
+        }
+      },
+      {
+        "frame": 83,
+        "truck_velocity_y": -1.828125,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0006003954630946495,
+          "KimiFrozen_Front_R_L": 0.0006003954630946495,
+          "KimiFrozen_Mid_R_Inner": 0.0006001921789950959,
+          "KimiFrozen_Mid_R_Inner_L": 0.0006001921789950959,
+          "KimiFrozen_Mid_R_Outer": 0.0006001921789950959,
+          "KimiFrozen_Mid_R_Outer_L": 0.0006001921789950959,
+          "KimiFrozen_Rear_R_Inner": 0.0006003954630946495,
+          "KimiFrozen_Rear_R_Inner_L": 0.0006003954630946495,
+          "KimiFrozen_Rear_R_Outer": 0.0006003954630946495,
+          "KimiFrozen_Rear_R_Outer_L": 0.0006003954630946495
+        }
+      }
+    ]
+  },
+  {
+    "scene": "deadline",
+    "wheel_count": 10,
+    "geometry_radii": {
+      "KimiFrozen_Front_R": 0.5361577753190595,
+      "KimiFrozen_Front_R_L": 0.5361577753190595,
+      "KimiFrozen_Mid_R_Inner": 0.5361577157188862,
+      "KimiFrozen_Mid_R_Inner_L": 0.5361577157188862,
+      "KimiFrozen_Mid_R_Outer": 0.5361577157188862,
+      "KimiFrozen_Mid_R_Outer_L": 0.5361577157188862,
+      "KimiFrozen_Rear_R_Inner": 0.5361577753190595,
+      "KimiFrozen_Rear_R_Inner_L": 0.5361577753190595,
+      "KimiFrozen_Rear_R_Outer": 0.5361577753190595,
+      "KimiFrozen_Rear_R_Outer_L": 0.5361577753190595
+    },
+    "maximum_residual_contact_speed_m_s": 0.001396502560933044,
+    "pass": true,
+    "samples": [
+      {
+        "frame": 18,
+        "truck_velocity_y": -3.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0008822923883213818,
+          "KimiFrozen_Front_R_L": 0.0008822923883213818,
+          "KimiFrozen_Mid_R_Inner": 0.0008819588053481375,
+          "KimiFrozen_Mid_R_Inner_L": 0.0008819588053481375,
+          "KimiFrozen_Mid_R_Outer": 0.0008819588053481375,
+          "KimiFrozen_Mid_R_Outer_L": 0.0008819588053481375,
+          "KimiFrozen_Rear_R_Inner": 0.0008822923883213818,
+          "KimiFrozen_Rear_R_Inner_L": 0.0008822923883213818,
+          "KimiFrozen_Rear_R_Outer": 0.0008822923883213818,
+          "KimiFrozen_Rear_R_Outer_L": 0.0008822923883213818
+        }
+      },
+      {
+        "frame": 36,
+        "truck_velocity_y": -3.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0008792244689219686,
+          "KimiFrozen_Front_R_L": 0.0008792244689219686,
+          "KimiFrozen_Mid_R_Inner": 0.0008788908862897848,
+          "KimiFrozen_Mid_R_Inner_L": 0.0008788908862897848,
+          "KimiFrozen_Mid_R_Outer": 0.0008788908862897848,
+          "KimiFrozen_Mid_R_Outer_L": 0.0008788908862897848,
+          "KimiFrozen_Rear_R_Inner": 0.0008792244689219686,
+          "KimiFrozen_Rear_R_Inner_L": 0.0008792244689219686,
+          "KimiFrozen_Rear_R_Outer": 0.0008792244689219686,
+          "KimiFrozen_Rear_R_Outer_L": 0.0008792244689219686
+        }
+      },
+      {
+        "frame": 44,
+        "truck_velocity_y": -4.250000953674316,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.001251772801921014,
+          "KimiFrozen_Front_R_L": 0.001251772801921014,
+          "KimiFrozen_Mid_R_Inner": 0.0012513002257303896,
+          "KimiFrozen_Mid_R_Inner_L": 0.0012513002257303896,
+          "KimiFrozen_Mid_R_Outer": 0.0012513002257303896,
+          "KimiFrozen_Mid_R_Outer_L": 0.0012513002257303896,
+          "KimiFrozen_Rear_R_Inner": 0.001251772801921014,
+          "KimiFrozen_Rear_R_Inner_L": 0.001251772801921014,
+          "KimiFrozen_Rear_R_Outer": 0.001251772801921014,
+          "KimiFrozen_Rear_R_Outer_L": 0.001251772801921014
+        }
+      },
+      {
+        "frame": 49,
+        "truck_velocity_y": -4.739582061767578,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.001396502560933044,
+          "KimiFrozen_Front_R_L": 0.001396502560933044,
+          "KimiFrozen_Mid_R_Inner": 0.0013959755460177803,
+          "KimiFrozen_Mid_R_Inner_L": 0.0013959755460177803,
+          "KimiFrozen_Mid_R_Outer": 0.0013959755460177803,
+          "KimiFrozen_Mid_R_Outer_L": 0.0013959755460177803,
+          "KimiFrozen_Rear_R_Inner": 0.001396502560933044,
+          "KimiFrozen_Rear_R_Inner_L": 0.001396502560933044,
+          "KimiFrozen_Rear_R_Outer": 0.001396502560933044,
+          "KimiFrozen_Rear_R_Outer_L": 0.001396502560933044
+        }
+      },
+      {
+        "frame": 54,
+        "truck_velocity_y": -2.135416030883789,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0006289866339446171,
+          "KimiFrozen_Front_R_L": 0.0006289866339446171,
+          "KimiFrozen_Mid_R_Inner": 0.0006287491876939555,
+          "KimiFrozen_Mid_R_Inner_L": 0.0006287491876939555,
+          "KimiFrozen_Mid_R_Outer": 0.0006287491876939555,
+          "KimiFrozen_Mid_R_Outer_L": 0.0006287491876939555,
+          "KimiFrozen_Rear_R_Inner": 0.0006289866339446171,
+          "KimiFrozen_Rear_R_Inner_L": 0.0006289866339446171,
+          "KimiFrozen_Rear_R_Outer": 0.0006289866339446171,
+          "KimiFrozen_Rear_R_Outer_L": 0.0006289866339446171
+        }
+      },
+      {
+        "frame": 65,
+        "truck_velocity_y": 0.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0,
+          "KimiFrozen_Front_R_L": 0.0,
+          "KimiFrozen_Mid_R_Inner": 0.0,
+          "KimiFrozen_Mid_R_Inner_L": 0.0,
+          "KimiFrozen_Mid_R_Outer": 0.0,
+          "KimiFrozen_Mid_R_Outer_L": 0.0,
+          "KimiFrozen_Rear_R_Inner": 0.0,
+          "KimiFrozen_Rear_R_Inner_L": 0.0,
+          "KimiFrozen_Rear_R_Outer": 0.0,
+          "KimiFrozen_Rear_R_Outer_L": 0.0
+        }
+      },
+      {
+        "frame": 76,
+        "truck_velocity_y": 0.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0,
+          "KimiFrozen_Front_R_L": 0.0,
+          "KimiFrozen_Mid_R_Inner": 0.0,
+          "KimiFrozen_Mid_R_Inner_L": 0.0,
+          "KimiFrozen_Mid_R_Outer": 0.0,
+          "KimiFrozen_Mid_R_Outer_L": 0.0,
+          "KimiFrozen_Rear_R_Inner": 0.0,
+          "KimiFrozen_Rear_R_Inner_L": 0.0,
+          "KimiFrozen_Rear_R_Outer": 0.0,
+          "KimiFrozen_Rear_R_Outer_L": 0.0
+        }
+      },
+      {
+        "frame": 83,
+        "truck_velocity_y": 0.0,
+        "wheel_ground_velocity_y": {
+          "KimiFrozen_Front_R": 0.0,
+          "KimiFrozen_Front_R_L": 0.0,
+          "KimiFrozen_Mid_R_Inner": 0.0,
+          "KimiFrozen_Mid_R_Inner_L": 0.0,
+          "KimiFrozen_Mid_R_Outer": 0.0,
+          "KimiFrozen_Mid_R_Outer_L": 0.0,
+          "KimiFrozen_Rear_R_Inner": 0.0,
+          "KimiFrozen_Rear_R_Inner_L": 0.0,
+          "KimiFrozen_Rear_R_Outer": 0.0,
+          "KimiFrozen_Rear_R_Outer_L": 0.0
+        }
+      }
+    ]
+  }
+]

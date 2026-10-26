@@ -1,0 +1,40 @@
+{
+  "source": "Independent reopen of truck_systems.blend and p1_explosion.blend",
+  "frame": 265,
+  "checkedOriginalTransforms": 2073,
+  "restoreErrors": [],
+  "parentErrors": [],
+  "missingEntityIds": [],
+  "engineRotationZ": 1.5707963705062866,
+  "rolling": {
+    "note": "Independent v = v_center + omega cross r, using the actual wheel axle and evaluated tread",
+    "frame": 12,
+    "actualLowestTreadRadius": 0.5361571162939072,
+    "centerVelocity": [
+      0.0,
+      -1.4826393127441406,
+      0.0
+    ],
+    "axle": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "angularVelocity": [
+      2.7456278800964355,
+      0.0,
+      0.0
+    ],
+    "contactVelocityActualTread": [
+      0.0,
+      -0.0105513334274292,
+      0.0
+    ],
+    "contactVelocityNominalRadius": [
+      0.0,
+      -2.384185791015625e-07,
+      0.0
+    ],
+    "nominalRadius": 0.54
+  }
+}

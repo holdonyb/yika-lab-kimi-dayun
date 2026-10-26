@@ -1,0 +1,405 @@
+{
+  "source": "Reopened p1_power.blend evaluated animation",
+  "frames": [
+    {
+      "frame": 1,
+      "time": 0.0,
+      "release": 0,
+      "engineAngle": 0.0,
+      "clutchAngle": 0.0,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.3179999589920044
+    },
+    {
+      "frame": 48,
+      "time": 1.9583333333333333,
+      "release": 0,
+      "engineAngle": 9.791666984558105,
+      "clutchAngle": 9.791666984558105,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          9.791666984558105,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          9.791666984558105,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          -14.491666793823242,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          9.791666984558105,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          3.2638888359069824,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          3.2638888359069824,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          3.2638888359069824,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          3.2638888359069824,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          3.2638888359069824,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.15563015639781952
+    },
+    {
+      "frame": 72,
+      "time": 2.9583333333333335,
+      "release": 1,
+      "engineAngle": 14.791666984558105,
+      "clutchAngle": 10.0,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          -14.800000190734863,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.17505861818790436
+    },
+    {
+      "frame": 96,
+      "time": 3.9583333333333335,
+      "release": 1,
+      "engineAngle": 19.79166603088379,
+      "clutchAngle": 10.0,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          -14.800000190734863,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          3.3333332538604736,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.2740185558795929
+    },
+    {
+      "frame": 120,
+      "time": 4.958333333333333,
+      "release": 0,
+      "engineAngle": 24.79166603088379,
+      "clutchAngle": 14.791666984558105,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          14.791666984558105,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          14.791666984558105,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          -21.891666412353516,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          14.791666984558105,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          4.93055534362793,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          4.93055534362793,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          4.93055534362793,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          4.93055534362793,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          4.93055534362793,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.31157299876213074
+    },
+    {
+      "frame": 144,
+      "time": 5.958333333333333,
+      "release": 0,
+      "engineAngle": 29.79166603088379,
+      "clutchAngle": 19.79166603088379,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          19.79166603088379,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          19.79166603088379,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          -29.29166603088379,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          19.79166603088379,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          6.597222328186035,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          6.597222328186035,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          6.597222328186035,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          6.597222328186035,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          6.597222328186035,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.2154638022184372
+    },
+    {
+      "frame": 192,
+      "time": 7.958333333333333,
+      "release": 0,
+      "engineAngle": 39.79166793823242,
+      "clutchAngle": 29.79166603088379,
+      "objects": {
+        "Clutch_FrictionDisc": [
+          0.0,
+          29.79166603088379,
+          0.0
+        ],
+        "Gearbox_InputShaft": [
+          0.0,
+          29.79166603088379,
+          0.0
+        ],
+        "Gearbox_CounterShaft": [
+          0.0,
+          -44.09166717529297,
+          0.0
+        ],
+        "PropellerShaft_Spinner": [
+          0.0,
+          29.79166603088379,
+          0.0
+        ],
+        "FinalDrive_Mid_Carrier": [
+          9.93055534362793,
+          0.0,
+          0.0
+        ],
+        "FinalDrive_Rear_Carrier": [
+          9.93055534362793,
+          0.0,
+          0.0
+        ],
+        "Front_R": [
+          9.93055534362793,
+          0.0,
+          0.0
+        ],
+        "Mid_R_Outer": [
+          9.93055534362793,
+          0.0,
+          0.0
+        ],
+        "Rear_R_Outer": [
+          9.93055534362793,
+          0.0,
+          0.0
+        ]
+      },
+      "piston01Z": 0.18234477937221527
+    }
+  ],
+  "downstreamStoppedFrom72To96": {
+    "Clutch_FrictionDisc": true,
+    "Gearbox_InputShaft": true,
+    "Gearbox_CounterShaft": true,
+    "PropellerShaft_Spinner": true,
+    "FinalDrive_Mid_Carrier": true,
+    "FinalDrive_Rear_Carrier": true,
+    "Front_R": true,
+    "Mid_R_Outer": true,
+    "Rear_R_Outer": true
+  },
+  "engineContinuesWhileClutchOpen": true,
+  "pistonContinuesWhileClutchOpen": true,
+  "kinematicOnly": true,
+  "combustionOrVehicleDynamicsValidated": false
+}

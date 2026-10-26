@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Speech,Microsoft YaHei,46,&H00F3F5F7,&H00FFFFFF,&H00101418,&H88000000,0,0,0,0,100,100,0,0,1,2.7,0,2,110,110,54,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.06,0:00:01.82,Speech,,0,0,0,,装回去，再检查联动。
+Dialogue: 1,0:00:02.08,0:00:02.68,Speech,,0,0,0,,看这里：
+Dialogue: 1,0:00:02.76,0:00:03.56,Speech,,0,0,0,,离合断开，
+Dialogue: 1,0:00:03.78,0:00:05.08,Speech,,0,0,0,,后面的传动轴停下；
+Dialogue: 1,0:00:05.18,0:00:06.00,Speech,,0,0,0,,重新接上，
+Dialogue: 1,0:00:06.00,0:00:07.52,Speech,,0,0,0,,它们又一起转起来。
+Dialogue: 1,0:00:07.88,0:00:08.98,Speech,,0,0,0,,能拆，能装，
+Dialogue: 1,0:00:09.01,0:00:10.58,Speech,,0,0,0,,接上以后能连着动，
+Dialogue: 1,0:00:10.72,0:00:12.64,Speech,,0,0,0,,这三道题就都摆在眼前了。
+Dialogue: 1,0:00:13.40,0:00:14.50,Speech,,0,0,0,,这一趟从十五个大块头，改到现在这些细节，

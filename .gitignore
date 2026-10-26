@@ -1,0 +1,12 @@
+*.blend
+*.blend1
+*.mp4
+*.wav
+*.mp3
+*.zip
+__pycache__/
+.venv/
+.env*
+*_frames/
+patch_frames/
+label_preflight/

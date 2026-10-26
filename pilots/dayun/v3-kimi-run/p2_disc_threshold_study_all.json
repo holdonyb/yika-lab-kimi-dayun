@@ -1,0 +1,525 @@
+[
+  {
+    "threshold": 0.3,
+    "asset": "p2_disc_study_t0_3.blend",
+    "sourceSha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44",
+    "cacheBaked": true,
+    "proxyContactEstimate": 57,
+    "firstFragmentationFrame": 4,
+    "preContactMaxDistanceChange": 2.6033738851448365,
+    "preContactMaxTiltDegrees": 163.31729528195686,
+    "stableBeforeContact": false,
+    "majoritySeparatedAtEnd": true,
+    "clusterMethod": "Approximate connectivity from linked center spacing, not a direct Bullet broken-flag count",
+    "samples": [
+      {
+        "frame": 1,
+        "maxLinkDistanceChange": 0.0,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0015000104904174805
+      },
+      {
+        "frame": 24,
+        "maxLinkDistanceChange": 0.9179807885757106,
+        "maxTiltDegrees": 29.965183945531916,
+        "approximateClusterSizes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0014153113588690758
+      },
+      {
+        "frame": 48,
+        "maxLinkDistanceChange": 2.3512505142018223,
+        "maxTiltDegrees": 151.7221885620248,
+        "approximateClusterSizes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.001167411683127284
+      },
+      {
+        "frame": 56,
+        "maxLinkDistanceChange": 2.6033738851448365,
+        "maxTiltDegrees": 163.31729528195686,
+        "approximateClusterSizes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0009788209572434425
+      },
+      {
+        "frame": 64,
+        "maxLinkDistanceChange": 3.0340748112315086,
+        "maxTiltDegrees": 118.17836456690515,
+        "approximateClusterSizes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.00016495426825713366
+      },
+      {
+        "frame": 72,
+        "maxLinkDistanceChange": 3.856291594271471,
+        "maxTiltDegrees": 152.4628269548643,
+        "approximateClusterSizes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0008963633445091546
+      },
+      {
+        "frame": 96,
+        "maxLinkDistanceChange": 6.286405138239724,
+        "maxTiltDegrees": 124.05873397055758,
+        "approximateClusterSizes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.001397168729454279
+      },
+      {
+        "frame": 144,
+        "maxLinkDistanceChange": 6.540767563602563,
+        "maxTiltDegrees": 124.05873397055758,
+        "approximateClusterSizes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.001469559851102531
+      },
+      {
+        "frame": 192,
+        "maxLinkDistanceChange": 6.540767563602563,
+        "maxTiltDegrees": 124.05873397055758,
+        "approximateClusterSizes": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0014692586846649647
+      }
+    ]
+  },
+  {
+    "threshold": 1.0,
+    "asset": "p2_disc_study_t1_0.blend",
+    "sourceSha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44",
+    "cacheBaked": true,
+    "proxyContactEstimate": 57,
+    "firstFragmentationFrame": 59,
+    "preContactMaxDistanceChange": 8.215292956692544e-06,
+    "preContactMaxTiltDegrees": 0,
+    "stableBeforeContact": true,
+    "majoritySeparatedAtEnd": true,
+    "clusterMethod": "Approximate connectivity from linked center spacing, not a direct Bullet broken-flag count",
+    "samples": [
+      {
+        "frame": 1,
+        "maxLinkDistanceChange": 0.0,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0015000104904174805
+      },
+      {
+        "frame": 24,
+        "maxLinkDistanceChange": 8.070440237095688e-06,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0014999181730672717
+      },
+      {
+        "frame": 48,
+        "maxLinkDistanceChange": 7.98546922664567e-06,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0014991050120443106
+      },
+      {
+        "frame": 56,
+        "maxLinkDistanceChange": 8.076569906201314e-06,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0014982538996264338
+      },
+      {
+        "frame": 64,
+        "maxLinkDistanceChange": 0.4347697384550758,
+        "maxTiltDegrees": 130.10383387661238,
+        "approximateClusterSizes": [
+          6,
+          6,
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": -0.00031429436057806015
+      },
+      {
+        "frame": 72,
+        "maxLinkDistanceChange": 1.3108311980179344,
+        "maxTiltDegrees": 124.07759895304515,
+        "approximateClusterSizes": [
+          7,
+          3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0006798207759857178
+      },
+      {
+        "frame": 96,
+        "maxLinkDistanceChange": 3.9159372151150067,
+        "maxTiltDegrees": 136.67263170708875,
+        "approximateClusterSizes": [
+          3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0009249725844711065
+      },
+      {
+        "frame": 144,
+        "maxLinkDistanceChange": 5.442441344178607,
+        "maxTiltDegrees": 90.0000161648565,
+        "approximateClusterSizes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0014998784754425287
+      },
+      {
+        "frame": 192,
+        "maxLinkDistanceChange": 5.442441344178607,
+        "maxTiltDegrees": 90.0000161648565,
+        "approximateClusterSizes": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0014998784754425287
+      }
+    ]
+  },
+  {
+    "threshold": 2.0,
+    "asset": "p2_disc_study_t2_0.blend",
+    "sourceSha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44",
+    "cacheBaked": true,
+    "proxyContactEstimate": 57,
+    "firstFragmentationFrame": 59,
+    "preContactMaxDistanceChange": 8.215292956692544e-06,
+    "preContactMaxTiltDegrees": 0,
+    "stableBeforeContact": true,
+    "majoritySeparatedAtEnd": true,
+    "clusterMethod": "Approximate connectivity from linked center spacing, not a direct Bullet broken-flag count",
+    "samples": [
+      {
+        "frame": 1,
+        "maxLinkDistanceChange": 0.0,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0015000104904174805
+      },
+      {
+        "frame": 24,
+        "maxLinkDistanceChange": 8.070440237095688e-06,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0014999181730672717
+      },
+      {
+        "frame": 48,
+        "maxLinkDistanceChange": 7.98546922664567e-06,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0014991050120443106
+      },
+      {
+        "frame": 56,
+        "maxLinkDistanceChange": 8.076569906201314e-06,
+        "maxTiltDegrees": 0.0,
+        "approximateClusterSizes": [
+          18
+        ],
+        "minimumMeshVertexZ": 0.0014982538996264338
+      },
+      {
+        "frame": 64,
+        "maxLinkDistanceChange": 0.3755837186699683,
+        "maxTiltDegrees": 112.72620021288832,
+        "approximateClusterSizes": [
+          8,
+          7,
+          2,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0020832885056734085
+      },
+      {
+        "frame": 72,
+        "maxLinkDistanceChange": 1.1214248188700213,
+        "maxTiltDegrees": 124.46476139595816,
+        "approximateClusterSizes": [
+          12,
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0013469279510900378
+      },
+      {
+        "frame": 96,
+        "maxLinkDistanceChange": 3.7486566559464314,
+        "maxTiltDegrees": 145.73920239628208,
+        "approximateClusterSizes": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0013997310306876898
+      },
+      {
+        "frame": 144,
+        "maxLinkDistanceChange": 4.342080979551139,
+        "maxTiltDegrees": 115.33997017427963,
+        "approximateClusterSizes": [
+          3,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0014590744394809008
+      },
+      {
+        "frame": 192,
+        "maxLinkDistanceChange": 4.342080979551139,
+        "maxTiltDegrees": 115.33984723087457,
+        "approximateClusterSizes": [
+          3,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "minimumMeshVertexZ": 0.0014590788632631302
+      }
+    ]
+  }
+]

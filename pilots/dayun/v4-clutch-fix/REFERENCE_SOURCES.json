@@ -1,0 +1,17 @@
+{
+  "checked_date": "2026-10-26",
+  "scope": "Generic dry clutch mechanism reference; not an OEM dimension claim for this Dayun vehicle.",
+  "sources": [
+    {
+      "title": "SKF Bearings & CR Seals Specification Handbook 2018",
+      "url": "https://cdn.skfmediahub.skf.com/api/public/0941c5affd030090/pdf_preview_medium/SKF_Bearings_and_CR_Seals_Specification_Handbook_-_2018_pdf_preview_medium.pdf",
+      "page_zero_index": 76,
+      "finding": "Release bearing and release mechanism lift the pressure plate away from the clutch disc to disengage drive."
+    },
+    {
+      "title": "ZF Aftermarket: Clutch does not disengage",
+      "url": "https://aftermarket.zf.com/en/aftermarket-portal/knowledge-hub/clutch-does-not-disengage/",
+      "finding": "Insufficient pressure-plate lift prevents full disengagement; a jammed hub can leave the disc facing in contact with the flywheel. The revised model must demonstrate real separation at friction faces, not only move the release bearing."
+    }
+  ]
+}

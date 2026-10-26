@@ -1,0 +1,30 @@
+{
+  "selectedDisc": "p2_disc_final.blend",
+  "selectedStudy": "p2_disc_study_t1_0.blend",
+  "selectedThreshold": 1.0,
+  "rebuildBase": "p2_disc_physics_base.blend",
+  "rebuildCommand": "Blender --background --python-exit-code 1 --python disc_threshold_study.py -- 1.0",
+  "baseSha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44",
+  "finalSha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c",
+  "ballsAsset": "p2_balls.blend",
+  "ballsSha256": "411b36e6a6c187befd4fde5f6121970507cf9c1b5a44f4ce72eff0acc7a864ab",
+  "bricksAsset": "p2_bricks.blend",
+  "selectedEvidence": [
+    "p2_disc_study_t1_0_check.json",
+    "p2_disc_study_t1_0_cache_check.json",
+    "p2_balls_support_check.json",
+    "p2_balls_cache_check.json"
+  ],
+  "firstFragmentationFrame": 59,
+  "preContactStable": true,
+  "endState": "18 independently simulated pre-cut cells, grouped only by the documented approximate center-spacing check",
+  "scope": [
+    "Animated truck and matching collision hull, not a vehicle dynamics model",
+    "Pre-cut cells and breakable fixed constraints solved by Bullet",
+    "Art-directed lightweight prop mass, not measured gypsum density or strength",
+    "Disc-only speed profile reaching 5.5m/s before a smooth stop",
+    "Initial bottom placement corrected from 18.3mm to 1.5mm using actual mesh vertices",
+    "No timed deletion of all constraints and no authored fragment flight trajectories",
+    "P2 editorial camera, final rendering and compositing are handled by the chief editor"
+  ]
+}

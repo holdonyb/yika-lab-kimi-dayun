@@ -1,0 +1,45 @@
+{
+  "scope": "V5 new collision arenas; original Kimi files remain unchanged",
+  "resolved": [
+    {
+      "issue": "Blender access violation while deleting original source IDs after mesh merging",
+      "fix": "Export a separate frozen scene through the Blender library writer; retain the source scene until process exit",
+      "evidence": "freeze.log, freeze_final.log"
+    },
+    {
+      "issue": "Evaluated material IDs serialized incorrectly; first preview vehicle became metallic gray",
+      "fix": "Freeze original object material slots rather than evaluated material pointers",
+      "evidence": "buttons/draft/0001.png versus buttons/material_check_0001.png"
+    },
+    {
+      "issue": "Only one wheel recognized during initial hierarchy extraction",
+      "fix": "Read real Kimi wheel parent names and freeze all ten wheel assemblies around their source centers",
+      "evidence": "source_manifest.json and freeze_final.log"
+    },
+    {
+      "issue": "Initial 3 m/s collision produced long pushing and aftermath outside frame",
+      "fix": "Accelerate briefly to 9 m/s, stagger buttons, thin/yaw folders, follow the resulting target positions; deliver short action clips plus separate result closeups",
+      "evidence": "previews/*_stills.jpg and each scene physics.json"
+    },
+    {
+      "issue": "Initial folder yaw caused pre-impact interference; stacked props had visible settling gaps",
+      "fix": "Reduce folder yaw and set supported stacks to small clearances; all twelve final scenes have under 0.03 m pre-impact settling",
+      "evidence": "physics_validation.json"
+    },
+    {
+      "issue": "Frozen wheels rotated opposite the forward travel direction",
+      "fix": "Use positive X angular travel and verify actual frozen tire radii against the vehicle translation",
+      "evidence": "wheel_contact_check.json; final clips use frames_final rather than rejected frames"
+    },
+    {
+      "issue": "Calendar and revision shots were too similar to folder pushing",
+      "fix": "Calendar uses floor trips and an earlier vehicle stop to trigger a continuing domino chain; revision sheets use staggered yaw and lighter thin bodies",
+      "evidence": "deadline/scene.blend, revision/scene.blend and previews/deadline_stills.jpg"
+    },
+    {
+      "issue": "Foreground runway leaked below breakout black frame",
+      "fix": "Bisect only arena floor and runway markings behind the screen plane; preserve truck motion and four black planes. Re-render to a new file, leaving all 12 collision clips unchanged.",
+      "evidence": "encoded_review/breakout_9s_v2_encoded.jpg; breakout_v2_receipt.json"
+    }
+  ]
+}

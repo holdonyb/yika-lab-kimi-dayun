@@ -1,0 +1,1078 @@
+{
+  "revision": "V5.1",
+  "movieSha256": "1fc735fb254b61a1986d194261f0acdc80dcfe974a96d16af34e02fe4f5d3a9b",
+  "files": [
+    {
+      "path": "pilots/dayun/v3-kimi-run/accessories.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/accessories.py",
+      "originalSha256": "b1715b2c0a7a7e9d2e4f8017feb31fb1ef31222037c4b7c427af80a997b99b9f",
+      "publicSha256": "b1715b2c0a7a7e9d2e4f8017feb31fb1ef31222037c4b7c427af80a997b99b9f",
+      "bytes": 11569
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/animate_p1.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/animate_p1.py",
+      "originalSha256": "a5b253706b30ed06e1ab0cdaaebfe6365a9027c7530c15d10c55e43be521b105",
+      "publicSha256": "a5b253706b30ed06e1ab0cdaaebfe6365a9027c7530c15d10c55e43be521b105",
+      "bytes": 25561
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/asset_sources.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/asset_sources.json",
+      "originalSha256": "58be965337b59732753d76836ef95e7ca2aa049db32671ad15bf184ded109faa",
+      "publicSha256": "58be965337b59732753d76836ef95e7ca2aa049db32671ad15bf184ded109faa",
+      "bytes": 1060
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/assets/dayun_base_frozen.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/assets/dayun_base_frozen.blend",
+      "originalSha256": "bb6929a1b1b9649888cc9d978aba281fed52ff1746d6953292946ae28a98bf25",
+      "publicSha256": "bb6929a1b1b9649888cc9d978aba281fed52ff1746d6953292946ae28a98bf25",
+      "bytes": 1884690
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/assets/engine_core_frozen.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/assets/engine_core_frozen.blend",
+      "originalSha256": "dbae2ea629687b493ba1af68fa8bffbab88014ff780833a3518ae1724796f849",
+      "publicSha256": "dbae2ea629687b493ba1af68fa8bffbab88014ff780833a3518ae1724796f849",
+      "bytes": 1119585
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/complete_systems.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/complete_systems.py",
+      "originalSha256": "b83c94656001a91ce3857657f4d828e0e3626d04d60835d0532c06c9925b4261",
+      "publicSha256": "b83c94656001a91ce3857657f4d828e0e3626d04d60835d0532c06c9925b4261",
+      "bytes": 12399
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/disc_threshold_study.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/disc_threshold_study.py",
+      "originalSha256": "854fd4feec1c2bd0793145915ad979e7d514d7013427800b5c43764487c55d4d",
+      "publicSha256": "854fd4feec1c2bd0793145915ad979e7d514d7013427800b5c43764487c55d4d",
+      "bytes": 6016
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/driveline.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/driveline.py",
+      "originalSha256": "d0a09df58d9f279f5fd164dcd4ffab779797a1fb197f49c09a2cb4dd583adcd9",
+      "publicSha256": "d0a09df58d9f279f5fd164dcd4ffab779797a1fb197f49c09a2cb4dd583adcd9",
+      "bytes": 9241
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/encode_p1.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/encode_p1.py",
+      "originalSha256": "c93e5e6af5f3a2e5b98a681adf5abd46a6f4b7421a06c1101b0bb5b7b5633e7b",
+      "publicSha256": "c93e5e6af5f3a2e5b98a681adf5abd46a6f4b7421a06c1101b0bb5b7b5633e7b",
+      "bytes": 2386
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/encode_p2.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/encode_p2.py",
+      "originalSha256": "9ec2f9ea6c22f88a3e2b0a5d1323e9b110f549ea14f479256a3c8db0d78bc128",
+      "publicSha256": "9ec2f9ea6c22f88a3e2b0a5d1323e9b110f549ea14f479256a3c8db0d78bc128",
+      "bytes": 2088
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/extract_geometry.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/extract_geometry.py",
+      "originalSha256": "4366ff803a243c523211d354aa633783cfa826fa32808ecf5ca97726c09ee9d7",
+      "publicSha256": "4366ff803a243c523211d354aa633783cfa826fa32808ecf5ca97726c09ee9d7",
+      "bytes": 5185
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/finalize_delivery.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/finalize_delivery.py",
+      "originalSha256": "255b874fb2393a3490197d792591e8f9501f946819541440a71dfc05e95058e3",
+      "publicSha256": "255b874fb2393a3490197d792591e8f9501f946819541440a71dfc05e95058e3",
+      "bytes": 8923
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/geo.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/geo.py",
+      "originalSha256": "2a8a237e53c86b9e038cf4e06b52e4b5c4575f1e6f013c399fe8afc4237a9780",
+      "publicSha256": "2a8a237e53c86b9e038cf4e06b52e4b5c4575f1e6f013c399fe8afc4237a9780",
+      "bytes": 12507
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/inspect_spread.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/inspect_spread.py",
+      "originalSha256": "96a7da9292907662a0ff10387cb1eb7f638ac07f3b64a206b26e38e0baeba439",
+      "publicSha256": "96a7da9292907662a0ff10387cb1eb7f638ac07f3b64a206b26e38e0baeba439",
+      "bytes": 1395
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/inspect_stage1.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/inspect_stage1.py",
+      "originalSha256": "73a0fd9726192a882f99c007dc334fdab95f882dd8ff8d1c99d85063dd6b1ddc",
+      "publicSha256": "73a0fd9726192a882f99c007dc334fdab95f882dd8ff8d1c99d85063dd6b1ddc",
+      "bytes": 1200
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/install_engine.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/install_engine.py",
+      "originalSha256": "093e687dcabf4b21a2f2dcd32923ad70f6a010082c8d29dab918ddde22fcc289",
+      "publicSha256": "093e687dcabf4b21a2f2dcd32923ad70f6a010082c8d29dab918ddde22fcc289",
+      "bytes": 8680
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/mv_cruise.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/mv_cruise.blend",
+      "originalSha256": "0797728635104f88726dca86ffd04e116f950dfa171457e119f34c4f77fb81b1",
+      "publicSha256": "0797728635104f88726dca86ffd04e116f950dfa171457e119f34c4f77fb81b1",
+      "bytes": 4250845
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/mv_detail.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/mv_detail.blend",
+      "originalSha256": "de1723916d066f64a9ef3546f1ba51c3e11cecf02bc5d65f14f184d82d488eba",
+      "publicSha256": "de1723916d066f64a9ef3546f1ba51c3e11cecf02bc5d65f14f184d82d488eba",
+      "bytes": 4253668
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/mv_turn.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/mv_turn.blend",
+      "originalSha256": "c30cd65c82a487a82adba072f71703eef5d3630646abf3b3e7899993fd0a6e9e",
+      "publicSha256": "c30cd65c82a487a82adba072f71703eef5d3630646abf3b3e7899993fd0a6e9e",
+      "bytes": 4252494
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_explosion.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p1_explosion.blend",
+      "originalSha256": "87e5e05422a9f6b56327931860e37f439d19d2a30b455d4ca0b494f7237b9f87",
+      "publicSha256": "87e5e05422a9f6b56327931860e37f439d19d2a30b455d4ca0b494f7237b9f87",
+      "bytes": 6994864
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_explosion_map.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p1_explosion_map.json",
+      "originalSha256": "3f26eabab6e8384a8fc0aa795d2d7f4c1121b9e3d1d2c01f3b436b57f84ea9ad",
+      "publicSha256": "3f26eabab6e8384a8fc0aa795d2d7f4c1121b9e3d1d2c01f3b436b57f84ea9ad",
+      "bytes": 1413765
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_motion_validation.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p1_motion_validation.json",
+      "originalSha256": "51b5bbafc56a9560def9295b6d9a45ae52bf382fa9b09f6bd06ba0ac4473096d",
+      "publicSha256": "51b5bbafc56a9560def9295b6d9a45ae52bf382fa9b09f6bd06ba0ac4473096d",
+      "bytes": 422
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_power.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p1_power.blend",
+      "originalSha256": "c265efef395d78fb9bfc566937f2b4af19eb1705856f6711e46a7b2fcc02f2fe",
+      "publicSha256": "c265efef395d78fb9bfc566937f2b4af19eb1705856f6711e46a7b2fcc02f2fe",
+      "bytes": 4182021
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_power_validation.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p1_power_validation.json",
+      "originalSha256": "82951b1993e27b5bc525e292f24296369268ac0a0d3c89ddc01d5342b96af8eb",
+      "publicSha256": "82951b1993e27b5bc525e292f24296369268ac0a0d3c89ddc01d5342b96af8eb",
+      "bytes": 8634
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_reopen_validation.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p1_reopen_validation.json",
+      "originalSha256": "be2eac4d21feb9cff26853fa2b46745909b2860260040512fa14c35653660740",
+      "publicSha256": "be2eac4d21feb9cff26853fa2b46745909b2860260040512fa14c35653660740",
+      "bytes": 903
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p1_wheel.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p1_wheel.blend",
+      "originalSha256": "cadcf4a8641071b44131d60b26f638a0a083543f942ac277d5a5d67b857acb47",
+      "publicSha256": "cadcf4a8641071b44131d60b26f638a0a083543f942ac277d5a5d67b857acb47",
+      "bytes": 4324492
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_balls.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p2_balls.blend",
+      "originalSha256": "411b36e6a6c187befd4fde5f6121970507cf9c1b5a44f4ce72eff0acc7a864ab",
+      "publicSha256": "411b36e6a6c187befd4fde5f6121970507cf9c1b5a44f4ce72eff0acc7a864ab",
+      "bytes": 4576461
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_bricks.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p2_bricks.blend",
+      "originalSha256": "a74017d41fc5a7a2ce5512f22bc470b9401b28dbf960605da85d06163f8f39dc",
+      "publicSha256": "a74017d41fc5a7a2ce5512f22bc470b9401b28dbf960605da85d06163f8f39dc",
+      "bytes": 4353245
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_disc_final.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p2_disc_final.blend",
+      "originalSha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c",
+      "publicSha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c",
+      "bytes": 4279792
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_disc_physics_base.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p2_disc_physics_base.blend",
+      "originalSha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44",
+      "publicSha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44",
+      "bytes": 4281676
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_disc_study_t1_0.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/p2_disc_study_t1_0.blend",
+      "originalSha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c",
+      "publicSha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c",
+      "bytes": 4279792
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_disc_threshold_study_all.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p2_disc_threshold_study_all.json",
+      "originalSha256": "3fe5e9d91623a982898536d44373cd4549efd27d55092bb1bded394057048374",
+      "publicSha256": "3fe5e9d91623a982898536d44373cd4549efd27d55092bb1bded394057048374",
+      "bytes": 11803
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_physics_delivery.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p2_physics_delivery.json",
+      "originalSha256": "2a6f5a7b6158679147156ed9ddf1f24550b61fb19551c5651ce6c2eb2a576659",
+      "publicSha256": "2a6f5a7b6158679147156ed9ddf1f24550b61fb19551c5651ce6c2eb2a576659",
+      "bytes": 1572
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/p2_scenes.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/p2_scenes.py",
+      "originalSha256": "0d34cc163214a4a89bf864e007e8e9df3b02ae8e593b50ac363e1c894d439375",
+      "publicSha256": "0d34cc163214a4a89bf864e007e8e9df3b02ae8e593b50ac363e1c894d439375",
+      "bytes": 17371
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/probe_geo.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/probe_geo.py",
+      "originalSha256": "66312f860b66c444e757d96e2f9bf702a3f5d71637641c59f59df8a86358e288",
+      "publicSha256": "66312f860b66c444e757d96e2f9bf702a3f5d71637641c59f59df8a86358e288",
+      "bytes": 583
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/probe_radiator.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/probe_radiator.py",
+      "originalSha256": "8c45f5b0eeec89cfd725572d8b4d8ebf9d61f5aa2243f0e62e405bd35a490edb",
+      "publicSha256": "8c45f5b0eeec89cfd725572d8b4d8ebf9d61f5aa2243f0e62e405bd35a490edb",
+      "bytes": 1026
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/render_disc_checks.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/render_disc_checks.py",
+      "originalSha256": "62784c44e33d52be1cba60b10535e200df8b4cd5f28ca0a9bbc237f2476e2d6c",
+      "publicSha256": "62784c44e33d52be1cba60b10535e200df8b4cd5f28ca0a9bbc237f2476e2d6c",
+      "bytes": 1051
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/render_saved.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/render_saved.py",
+      "originalSha256": "a9b73be60b19c80cfb9844f594d47bceb893770ca2dfda1309f06d44d1251e05",
+      "publicSha256": "a9b73be60b19c80cfb9844f594d47bceb893770ca2dfda1309f06d44d1251e05",
+      "bytes": 787
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/resume_render.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/resume_render.py",
+      "originalSha256": "a0f63cf8623de5c900f77b7bfc56f5757965337e246a7f9505923778b77fd1d8",
+      "publicSha256": "a0f63cf8623de5c900f77b7bfc56f5757965337e246a7f9505923778b77fd1d8",
+      "bytes": 3790
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/run_previews.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/run_previews.py",
+      "originalSha256": "98a75ea3705ea3e4379aad91b85fa0892198b1e230d2f28ecf6af524ad3e9327",
+      "publicSha256": "98a75ea3705ea3e4379aad91b85fa0892198b1e230d2f28ecf6af524ad3e9327",
+      "bytes": 838
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/stage1_entities.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/stage1_entities.json",
+      "originalSha256": "b4f78a015db97243ab90d2391cda60cddadd1e3838727951e2668aea9068d9d1",
+      "publicSha256": "b4f78a015db97243ab90d2391cda60cddadd1e3838727951e2668aea9068d9d1",
+      "bytes": 822229
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/stage1_stills.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/stage1_stills.py",
+      "originalSha256": "7c1e58592b3c31ecf955ec38c7f9866d8d0147e3a6f59f2a91ae979b32e20163",
+      "publicSha256": "7c1e58592b3c31ecf955ec38c7f9866d8d0147e3a6f59f2a91ae979b32e20163",
+      "bytes": 1518
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/studio.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/studio.py",
+      "originalSha256": "2f31aa778017dc8d19c2df87ce424debb6f61b5eaf7fc08b95027fb436dd81a5",
+      "publicSha256": "2f31aa778017dc8d19c2df87ce424debb6f61b5eaf7fc08b95027fb436dd81a5",
+      "bytes": 5485
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/truck_stage1.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/truck_stage1.blend",
+      "originalSha256": "c8d52b64be5e1a0cbe25e33ae42298f165cd1d1f9ad71e6b6551a23970501b4b",
+      "publicSha256": "c8d52b64be5e1a0cbe25e33ae42298f165cd1d1f9ad71e6b6551a23970501b4b",
+      "bytes": 3575413
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/truck_systems.blend",
+      "kind": "release-asset",
+      "origin": "original-kimi-v3/truck_systems.blend",
+      "originalSha256": "192193f039d09e118f820318964c0d3aa1340503fcb55da6c1436e80249e6d50",
+      "publicSha256": "192193f039d09e118f820318964c0d3aa1340503fcb55da6c1436e80249e6d50",
+      "bytes": 4175512
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/validate_ball_support.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/validate_ball_support.py",
+      "originalSha256": "4a14a69eb60a3b6913059b1f7aba65cf89feeca9a6a8435e9c1a1100f2b4db8f",
+      "publicSha256": "4a14a69eb60a3b6913059b1f7aba65cf89feeca9a6a8435e9c1a1100f2b4db8f",
+      "bytes": 2151
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/validate_disc_frames.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/validate_disc_frames.py",
+      "originalSha256": "4f54ef564c230e755ec0a01c054e7eb39af6ea3a6d808bd3d718cbff414f0581",
+      "publicSha256": "4f54ef564c230e755ec0a01c054e7eb39af6ea3a6d808bd3d718cbff414f0581",
+      "bytes": 3210
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/validate_disc_motion.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/validate_disc_motion.py",
+      "originalSha256": "94daf5165e85185ce87bc8c3ecaf9bd3d77d5ca22212111d1945e80e9f8f4d8b",
+      "publicSha256": "94daf5165e85185ce87bc8c3ecaf9bd3d77d5ca22212111d1945e80e9f8f4d8b",
+      "bytes": 4582
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/vehicle_entities.json",
+      "kind": "repository",
+      "origin": "original-kimi-v3/vehicle_entities.json",
+      "originalSha256": "da741ac3a5529d90b0a897a5c6084bd2401afc4a603eedfeeba9b3200fa85c21",
+      "publicSha256": "da741ac3a5529d90b0a897a5c6084bd2401afc4a603eedfeeba9b3200fa85c21",
+      "bytes": 1928100
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/verify_assets.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/verify_assets.py",
+      "originalSha256": "37627f68561624d99ef405db93ddb7376db38a9a1a29ad8b3045358da3235c60",
+      "publicSha256": "37627f68561624d99ef405db93ddb7376db38a9a1a29ad8b3045358da3235c60",
+      "bytes": 5384
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/verify_p2.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/verify_p2.py",
+      "originalSha256": "5a9913ab28bf3ca39623d4168c5b6edafa2ceb9031791d40de9056ebce73e106",
+      "publicSha256": "5a9913ab28bf3ca39623d4168c5b6edafa2ceb9031791d40de9056ebce73e106",
+      "bytes": 2392
+    },
+    {
+      "path": "pilots/dayun/v3-kimi-run/wheel_end.py",
+      "kind": "repository",
+      "origin": "original-kimi-v3/wheel_end.py",
+      "originalSha256": "97f0cda66518746e188d818247ed51a1fb4b375ffbc018689f46291fbd6ca6cc",
+      "publicSha256": "97f0cda66518746e188d818247ed51a1fb4b375ffbc018689f46291fbd6ca6cc",
+      "bytes": 9381
+    },
+    {
+      "path": "pilots/dayun/kimi-run/build_truck.py",
+      "kind": "repository",
+      "origin": "pilots/dayun/kimi-run/build_truck.py",
+      "originalSha256": "af3eefc54b41d8f111e5774fa00e24dd79e50bbf507aa660d3fb9109d71635cc",
+      "publicSha256": "af3eefc54b41d8f111e5774fa00e24dd79e50bbf507aa660d3fb9109d71635cc",
+      "bytes": 32482
+    },
+    {
+      "path": "pilots/dayun/v2-kimi-run/build_engine.py",
+      "kind": "repository",
+      "origin": "pilots/dayun/v2-kimi-run/build_engine.py",
+      "originalSha256": "33eb9b23b0b65cc2fb72db36468241fa7542c3fd67665400078415065c7f44f9",
+      "publicSha256": "33eb9b23b0b65cc2fb72db36468241fa7542c3fd67665400078415065c7f44f9",
+      "bytes": 48600
+    },
+    {
+      "path": "pilots/dayun/v2-kimi-run/render_engine.py",
+      "kind": "repository",
+      "origin": "pilots/dayun/v2-kimi-run/render_engine.py",
+      "originalSha256": "1d815d05f4c43be43c357e172c11612fc1e416b2401a756c47ff1369d4a7620d",
+      "publicSha256": "1d815d05f4c43be43c357e172c11612fc1e416b2401a756c47ff1369d4a7620d",
+      "bytes": 4021
+    },
+    {
+      "path": "pilots/dayun/v2-kimi-run/validate_paths.py",
+      "kind": "repository",
+      "origin": "pilots/dayun/v2-kimi-run/validate_paths.py",
+      "originalSha256": "ce58deb4d3fb97347da1d8951fa7261aa438bef5a4cf75990d9617d80720d209",
+      "publicSha256": "ce58deb4d3fb97347da1d8951fa7261aa438bef5a4cf75990d9617d80720d209",
+      "bytes": 7490
+    },
+    {
+      "path": "pilots/dayun/v2-kimi-run/probe_bearing_fit.py",
+      "kind": "repository",
+      "origin": "pilots/dayun/v2-kimi-run/probe_bearing_fit.py",
+      "originalSha256": "ced8e979dd027b0e3482cd1f853249eb2b780ac37d39a0a7bed72c8f2a3ce51a",
+      "publicSha256": "ced8e979dd027b0e3482cd1f853249eb2b780ac37d39a0a7bed72c8f2a3ce51a",
+      "bytes": 1414
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/kimi_truck_frozen.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/kimi_truck_frozen.blend",
+      "originalSha256": "d8fa24eb7483faa7defbcd21cee331d4745ff51a8a2bdfb2fc872370f69c91b1",
+      "publicSha256": "d8fa24eb7483faa7defbcd21cee331d4745ff51a8a2bdfb2fc872370f69c91b1",
+      "bytes": 7716533
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/physics_validation.json",
+      "kind": "repository",
+      "origin": "codex-collisions/physics_validation.json",
+      "originalSha256": "5f4e0237519041a57c30200177b076ed28290c846c72c8989309592b7783c420",
+      "publicSha256": "5f4e0237519041a57c30200177b076ed28290c846c72c8989309592b7783c420",
+      "bytes": 4592
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/wheel_contact_check.json",
+      "kind": "repository",
+      "origin": "codex-collisions/wheel_contact_check.json",
+      "originalSha256": "0f58d4ae82022ebaa2fb99ecc9eacaeee9852fd8ee187d317f6956c8f32b1783",
+      "publicSha256": "0f58d4ae82022ebaa2fb99ecc9eacaeee9852fd8ee187d317f6956c8f32b1783",
+      "bytes": 12674
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/failure_history.json",
+      "kind": "repository",
+      "origin": "codex-collisions/failure_history.json",
+      "originalSha256": "d22e457f887cfaee1c7e26f2da024dde1af5e5c74939baa7ed6183682e62dda4",
+      "publicSha256": "d22e457f887cfaee1c7e26f2da024dde1af5e5c74939baa7ed6183682e62dda4",
+      "bytes": 2684
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/make_collisions.py",
+      "kind": "repository",
+      "origin": "codex-collisions/make_collisions.py",
+      "originalSha256": "dac623a1c25aeb687d10705e6fa050dcea6eb62d6d2675b4f44b49fa28d1701a",
+      "publicSha256": "dac623a1c25aeb687d10705e6fa050dcea6eb62d6d2675b4f44b49fa28d1701a",
+      "bytes": 26523
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/run_delivery.py",
+      "kind": "repository",
+      "origin": "codex-collisions/run_delivery.py",
+      "originalSha256": "1536f27b57223862aced5cc515a9937378e4d53ca4fc8e042c936b0625ece3df",
+      "publicSha256": "1536f27b57223862aced5cc515a9937378e4d53ca4fc8e042c936b0625ece3df",
+      "bytes": 4889
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/review_encode.py",
+      "kind": "repository",
+      "origin": "codex-collisions/review_encode.py",
+      "originalSha256": "0fc4541ac0aff944944cf7097f9ae40fb5687b6f47d95ab05ce680fe94c9ac22",
+      "publicSha256": "0fc4541ac0aff944944cf7097f9ae40fb5687b6f47d95ab05ce680fe94c9ac22",
+      "bytes": 1900
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/verify_cache.py",
+      "kind": "repository",
+      "origin": "codex-collisions/verify_cache.py",
+      "originalSha256": "0725ff28a2fcf649d58690ca724e6a76aace793da42a9a88d3c847246a6025d8",
+      "publicSha256": "0725ff28a2fcf649d58690ca724e6a76aace793da42a9a88d3c847246a6025d8",
+      "bytes": 1884
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/check_wheel_contact.py",
+      "kind": "repository",
+      "origin": "codex-collisions/check_wheel_contact.py",
+      "originalSha256": "d9dc961ed932f4a1bdfa5250e9d72f6da90aa64d87a271680c34e3e941811957",
+      "publicSha256": "d9dc961ed932f4a1bdfa5250e9d72f6da90aa64d87a271680c34e3e941811957",
+      "bytes": 1227
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/review_encoded.py",
+      "kind": "repository",
+      "origin": "codex-collisions/review_encoded.py",
+      "originalSha256": "680298a1f24d2558c0c78c6e25c49dc5b0fe5cb255d4957c224d15fdefd1d2f0",
+      "publicSha256": "680298a1f24d2558c0c78c6e25c49dc5b0fe5cb255d4957c224d15fdefd1d2f0",
+      "bytes": 907
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/finalize_package.py",
+      "kind": "repository",
+      "origin": "codex-collisions/finalize_package.py",
+      "originalSha256": "7b1e2e3f416c48af0c5327318d621e8fde6310fc349c6accf025f3d062046ee3",
+      "publicSha256": "7b1e2e3f416c48af0c5327318d621e8fde6310fc349c6accf025f3d062046ee3",
+      "bytes": 4279
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/buttons/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/buttons/scene.blend",
+      "originalSha256": "b5996e1c3a1c22f6d3e5506b4a1d9fb48be1dd4a47d1fba37280318bfa3013ee",
+      "publicSha256": "b5996e1c3a1c22f6d3e5506b4a1d9fb48be1dd4a47d1fba37280318bfa3013ee",
+      "bytes": 7815616
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/buttons/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/buttons/result_camera.blend",
+      "originalSha256": "d414623a4b9e08076d13c036653817d1e6afa05b3d968cfb55607c2a90bb8b07",
+      "publicSha256": "d414623a4b9e08076d13c036653817d1e6afa05b3d968cfb55607c2a90bb8b07",
+      "bytes": 7803269
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/buttons/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/buttons/cache_reopen.json",
+      "originalSha256": "6498f02308dd074845c57fabd3040ba89799ce36efda86320ab412364d9748e0",
+      "publicSha256": "6498f02308dd074845c57fabd3040ba89799ce36efda86320ab412364d9748e0",
+      "bytes": 346
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/folders/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/folders/scene.blend",
+      "originalSha256": "a4ffb39ea102af357407b94a226c09ce7f72ae19d9a568ab5137a72037ffff6a",
+      "publicSha256": "a4ffb39ea102af357407b94a226c09ce7f72ae19d9a568ab5137a72037ffff6a",
+      "bytes": 7840605
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/folders/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/folders/result_camera.blend",
+      "originalSha256": "d4a9bb9ce6201ff0d66dd3d50368203f8bff3c8f9eff24853bcddd82453d1a71",
+      "publicSha256": "d4a9bb9ce6201ff0d66dd3d50368203f8bff3c8f9eff24853bcddd82453d1a71",
+      "bytes": 7829315
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/folders/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/folders/cache_reopen.json",
+      "originalSha256": "bf20db9e7c738ed2192418b1ab1b141199544aad1968f45f25a8c7c38a3015bd",
+      "publicSha256": "bf20db9e7c738ed2192418b1ab1b141199544aad1968f45f25a8c7c38a3015bd",
+      "bytes": 345
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/loading/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/loading/scene.blend",
+      "originalSha256": "017b152e917df28c27a4dd94b288a852025e6133c1162f1b10642f461cc799ca",
+      "publicSha256": "017b152e917df28c27a4dd94b288a852025e6133c1162f1b10642f461cc799ca",
+      "bytes": 7863204
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/loading/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/loading/result_camera.blend",
+      "originalSha256": "82b34673c7d35c1dc0cc005c1fa05de7041dd3002880a62993941f362a9af92e",
+      "publicSha256": "82b34673c7d35c1dc0cc005c1fa05de7041dd3002880a62993941f362a9af92e",
+      "bytes": 7850143
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/loading/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/loading/cache_reopen.json",
+      "originalSha256": "df07f134f2135607a3acef2dbc22838d5b6a0d4fd24a9e02860d5ade18f2108d",
+      "publicSha256": "df07f134f2135607a3acef2dbc22838d5b6a0d4fd24a9e02860d5ade18f2108d",
+      "bytes": 361
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/deadline/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/deadline/scene.blend",
+      "originalSha256": "f85bea917ef28f3820c1c3d310b65cfaeef122ef4ab44a8f3054c3c5b7b025e6",
+      "publicSha256": "f85bea917ef28f3820c1c3d310b65cfaeef122ef4ab44a8f3054c3c5b7b025e6",
+      "bytes": 7859293
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/deadline/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/deadline/result_camera.blend",
+      "originalSha256": "bdb1686e511fffeae188485eab30eb48541668a1696c8d9275a98699aee327b8",
+      "publicSha256": "bdb1686e511fffeae188485eab30eb48541668a1696c8d9275a98699aee327b8",
+      "bytes": 7846465
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/deadline/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/deadline/cache_reopen.json",
+      "originalSha256": "7930fa94413cd9374b3bb722f8bc071b748bba253130125f57fc0cdf896585a0",
+      "publicSha256": "7930fa94413cd9374b3bb722f8bc071b748bba253130125f57fc0cdf896585a0",
+      "bytes": 360
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/errors/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/errors/scene.blend",
+      "originalSha256": "f897da2a06fc012279ab64a4d65159426345e4219288791bd1e8f98bee43fd7b",
+      "publicSha256": "f897da2a06fc012279ab64a4d65159426345e4219288791bd1e8f98bee43fd7b",
+      "bytes": 7857910
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/errors/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/errors/result_camera.blend",
+      "originalSha256": "616a35a2dda763a36b16ccd86e18a3beb6a2d34c6091f683128723215d0cef4c",
+      "publicSha256": "616a35a2dda763a36b16ccd86e18a3beb6a2d34c6091f683128723215d0cef4c",
+      "bytes": 7845484
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/errors/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/errors/cache_reopen.json",
+      "originalSha256": "7883c8866fe7e708449c85d62d0d6085938fc18d943b409e7f19bd49885ce43f",
+      "publicSha256": "7883c8866fe7e708449c85d62d0d6085938fc18d943b409e7f19bd49885ce43f",
+      "bytes": 360
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/vram/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/vram/scene.blend",
+      "originalSha256": "dfa71cbbe31f0fcf711cc51e59e8021752a9d2567541532e07fbd8d9256895ee",
+      "publicSha256": "dfa71cbbe31f0fcf711cc51e59e8021752a9d2567541532e07fbd8d9256895ee",
+      "bytes": 7837401
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/vram/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/vram/result_camera.blend",
+      "originalSha256": "ef0e6ca1c80ac7522a865902c0232a20eec3af63e37447bf796608357334d9d8",
+      "publicSha256": "ef0e6ca1c80ac7522a865902c0232a20eec3af63e37447bf796608357334d9d8",
+      "bytes": 7825648
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/vram/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/vram/cache_reopen.json",
+      "originalSha256": "2ed8855c328db3d871cb8513e18720d14eaf99bc3018802dea1adb36cd7dd997",
+      "publicSha256": "2ed8855c328db3d871cb8513e18720d14eaf99bc3018802dea1adb36cd7dd997",
+      "bytes": 343
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/crates/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/crates/scene.blend",
+      "originalSha256": "bf22b0d1a7e91d9e492d5f7f7d72abf999f7786555c208b4d2f74273c8fa62b9",
+      "publicSha256": "bf22b0d1a7e91d9e492d5f7f7d72abf999f7786555c208b4d2f74273c8fa62b9",
+      "bytes": 7823716
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/crates/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/crates/result_camera.blend",
+      "originalSha256": "cbd7f646004d8cd1f924ae76955cbce51045c63095d941d40dca788dcddcbcef",
+      "publicSha256": "cbd7f646004d8cd1f924ae76955cbce51045c63095d941d40dca788dcddcbcef",
+      "bytes": 7811731
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/crates/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/crates/cache_reopen.json",
+      "originalSha256": "008dfa0e4a895a58a0a2de18002b13ade4cae89adcf6d98e5f22077dd7b229e6",
+      "publicSha256": "008dfa0e4a895a58a0a2de18002b13ade4cae89adcf6d98e5f22077dd7b229e6",
+      "bytes": 358
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/danmaku/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/danmaku/scene.blend",
+      "originalSha256": "e4375b7ed296000c1cce30961384a46be4dc030974a2073b8f70624164fc31d9",
+      "publicSha256": "e4375b7ed296000c1cce30961384a46be4dc030974a2073b8f70624164fc31d9",
+      "bytes": 7833869
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/danmaku/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/danmaku/result_camera.blend",
+      "originalSha256": "2d8fafe4fb69fc88a13184eeb559186d154c7ff94858f17a51eb6c0dca837843",
+      "publicSha256": "2d8fafe4fb69fc88a13184eeb559186d154c7ff94858f17a51eb6c0dca837843",
+      "bytes": 7821410
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/danmaku/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/danmaku/cache_reopen.json",
+      "originalSha256": "4be87f508f1e2fe4b6761eb347adc339c8c0f0ce0525f0a33ed69a450c15164b",
+      "publicSha256": "4be87f508f1e2fe4b6761eb347adc339c8c0f0ce0525f0a33ed69a450c15164b",
+      "bytes": 358
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/revision/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/revision/scene.blend",
+      "originalSha256": "c22faeed1565a1d5424bce22d6053b76c059c05bbf27a36e7347d35a469dfe6b",
+      "publicSha256": "c22faeed1565a1d5424bce22d6053b76c059c05bbf27a36e7347d35a469dfe6b",
+      "bytes": 7872528
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/revision/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/revision/result_camera.blend",
+      "originalSha256": "3a2a425e5bbf8f2c9eaaf4003953ad089996cebc0853f251630ecfe93b2dfb3d",
+      "publicSha256": "3a2a425e5bbf8f2c9eaaf4003953ad089996cebc0853f251630ecfe93b2dfb3d",
+      "bytes": 7859630
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/revision/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/revision/cache_reopen.json",
+      "originalSha256": "602e380dc2c28d7f788bb996c05deec5cb538a324b5de667ffe3a6924a10ad80",
+      "publicSha256": "602e380dc2c28d7f788bb996c05deec5cb538a324b5de667ffe3a6924a10ad80",
+      "bytes": 360
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/banana/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/banana/scene.blend",
+      "originalSha256": "a714c2eb5874935ce9d5c16998594d21bf606e3e90de02214e50ba989bc65438",
+      "publicSha256": "a714c2eb5874935ce9d5c16998594d21bf606e3e90de02214e50ba989bc65438",
+      "bytes": 7827205
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/banana/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/banana/result_camera.blend",
+      "originalSha256": "977e1538dddcfeedfcc66830b4705738a733d64c14f517f1d4fe6d3735a12979",
+      "publicSha256": "977e1538dddcfeedfcc66830b4705738a733d64c14f517f1d4fe6d3735a12979",
+      "bytes": 7814086
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/banana/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/banana/cache_reopen.json",
+      "originalSha256": "2ee5c42d44e750468234d5966b5539b6d1ee07a36c9c718eab926a3ea7ac44aa",
+      "publicSha256": "2ee5c42d44e750468234d5966b5539b6d1ee07a36c9c718eab926a3ea7ac44aa",
+      "bytes": 358
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/triple/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/triple/scene.blend",
+      "originalSha256": "8e3614f0ec97098638692ac101577409b9c11db469ade28d65b3fd12bb0d9cf2",
+      "publicSha256": "8e3614f0ec97098638692ac101577409b9c11db469ade28d65b3fd12bb0d9cf2",
+      "bytes": 7816260
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/triple/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/triple/result_camera.blend",
+      "originalSha256": "4d3240aefed20ccebc51238d8d4aaf8f8eafe3fb6e5ec9b23889644762617225",
+      "publicSha256": "4d3240aefed20ccebc51238d8d4aaf8f8eafe3fb6e5ec9b23889644762617225",
+      "bytes": 7804556
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/triple/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/triple/cache_reopen.json",
+      "originalSha256": "21af16077b2600f3c4908c2563dfdc2a19fd3c9c3c5dc5897e26dcee17cb2560",
+      "publicSha256": "21af16077b2600f3c4908c2563dfdc2a19fd3c9c3c5dc5897e26dcee17cb2560",
+      "bytes": 358
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/coins/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/coins/scene.blend",
+      "originalSha256": "388cfcaebcdb1777efdaedad9d4ad80b723843eda00086c2c38ac612f139bf45",
+      "publicSha256": "388cfcaebcdb1777efdaedad9d4ad80b723843eda00086c2c38ac612f139bf45",
+      "bytes": 7936666
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/coins/result_camera.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/coins/result_camera.blend",
+      "originalSha256": "d3c4b32150e12aeef6eec0c5fefe23e903ad3d1d750fefc829396277431fc0ba",
+      "publicSha256": "d3c4b32150e12aeef6eec0c5fefe23e903ad3d1d750fefc829396277431fc0ba",
+      "bytes": 7924071
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/coins/cache_reopen.json",
+      "kind": "repository",
+      "origin": "codex-collisions/coins/cache_reopen.json",
+      "originalSha256": "99c9fc5b6079ca88c3dbcceeb250440725aa7296534b74d5a41e7933ea58c4fc",
+      "publicSha256": "99c9fc5b6079ca88c3dbcceeb250440725aa7296534b74d5a41e7933ea58c4fc",
+      "bytes": 358
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/collisions/breakout/scene.blend",
+      "kind": "release-asset",
+      "origin": "codex-collisions/breakout/scene.blend",
+      "originalSha256": "28a3641881b567831e5a2884584a6388c2e1224c726b2d8a6ab4265b3e66e1d6",
+      "publicSha256": "28a3641881b567831e5a2884584a6388c2e1224c726b2d8a6ab4265b3e66e1d6",
+      "bytes": 7793943
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/REFERENCE_SOURCES.json",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/REFERENCE_SOURCES.json",
+      "originalSha256": "fc6c0d93e952fb4aa609f3788067e0daddb08e36a30ba98ca1ef9f1c6da25279",
+      "publicSha256": "fc6c0d93e952fb4aa609f3788067e0daddb08e36a30ba98ca1ef9f1c6da25279",
+      "bytes": 1006
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/build_clutch_fix.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/build_clutch_fix.py",
+      "originalSha256": "55240c0e233a234f2302d9bea058f86374ca8367182e15e94a92a527c4ea25ac",
+      "publicSha256": "55240c0e233a234f2302d9bea058f86374ca8367182e15e94a92a527c4ea25ac",
+      "bytes": 5424
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/clutch_geometry.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/clutch_geometry.py",
+      "originalSha256": "ef040ad0b8a659807f5d099f1b0bab019a4826d1aa8ce4b1bbd27eeffb49ec42",
+      "publicSha256": "ef040ad0b8a659807f5d099f1b0bab019a4826d1aa8ce4b1bbd27eeffb49ec42",
+      "bytes": 7573
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/clutch_mechanism.blend",
+      "kind": "release-asset",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/clutch_mechanism.blend",
+      "originalSha256": "4508a8984fbdf4e812878ea828b9c67b6b5689c01b6536af773fee880b3229af",
+      "publicSha256": "4508a8984fbdf4e812878ea828b9c67b6b5689c01b6536af773fee880b3229af",
+      "bytes": 202839
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/clutch_phase.json",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/clutch_phase.json",
+      "originalSha256": "1fc7a1254de8f0acb5044ec1f775397bffa628e0daf8a612826ba6416be28f6b",
+      "publicSha256": "1fc7a1254de8f0acb5044ec1f775397bffa628e0daf8a612826ba6416be28f6b",
+      "bytes": 103816
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/clutch_phases.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/clutch_phases.py",
+      "originalSha256": "9f56c83f35b02035c9619c4d184128986a5ee4aba25f7a8951a19d433a434e5e",
+      "publicSha256": "9f56c83f35b02035c9619c4d184128986a5ee4aba25f7a8951a19d433a434e5e",
+      "bytes": 4422
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/clutch_powertrain.blend",
+      "kind": "release-asset",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/clutch_powertrain.blend",
+      "originalSha256": "1c04adc67c61a8169dbb22752b8ee229d6f54892db93020e15a217ddea3fda44",
+      "publicSha256": "1c04adc67c61a8169dbb22752b8ee229d6f54892db93020e15a217ddea3fda44",
+      "bytes": 4161130
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/clutch_validation.json",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/clutch_validation.json",
+      "originalSha256": "8e6c929cf4cceeab5cf1a4bbb921abd812d5f9339458fa7e330d6353bd55dccf",
+      "publicSha256": "8e6c929cf4cceeab5cf1a4bbb921abd812d5f9339458fa7e330d6353bd55dccf",
+      "bytes": 649225
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/driveline.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/driveline.py",
+      "originalSha256": "d0a09df58d9f279f5fd164dcd4ffab779797a1fb197f49c09a2cb4dd583adcd9",
+      "publicSha256": "d0a09df58d9f279f5fd164dcd4ffab779797a1fb197f49c09a2cb4dd583adcd9",
+      "bytes": 9241
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/geo.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/geo.py",
+      "originalSha256": "c8270c5a91162bd50987326d51c485361e3e478be2314b7ee45d292dd5fc319c",
+      "publicSha256": "c8270c5a91162bd50987326d51c485361e3e478be2314b7ee45d292dd5fc319c",
+      "bytes": 12507
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/studio.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/studio.py",
+      "originalSha256": "2f31aa778017dc8d19c2df87ce424debb6f61b5eaf7fc08b95027fb436dd81a5",
+      "publicSha256": "2f31aa778017dc8d19c2df87ce424debb6f61b5eaf7fc08b95027fb436dd81a5",
+      "bytes": 5485
+    },
+    {
+      "path": "pilots/dayun/v4-clutch-fix/validate_clutch.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/dayun/v4-clutch-fix/validate_clutch.py",
+      "originalSha256": "290cbb7ff0bc9eff7aba7178e53cd6c1622e67bb67b5aa51b801e358a8bfc78d",
+      "publicSha256": "290cbb7ff0bc9eff7aba7178e53cd6c1622e67bb67b5aa51b801e358a8bfc78d",
+      "bytes": 6327
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/build_clutch_fix.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/editorial/author_candidate_1953/build_clutch_fix.py",
+      "originalSha256": "55240c0e233a234f2302d9bea058f86374ca8367182e15e94a92a527c4ea25ac",
+      "publicSha256": "55240c0e233a234f2302d9bea058f86374ca8367182e15e94a92a527c4ea25ac",
+      "bytes": 5424
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_geometry.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/editorial/author_candidate_1953/clutch_geometry.py",
+      "originalSha256": "ef040ad0b8a659807f5d099f1b0bab019a4826d1aa8ce4b1bbd27eeffb49ec42",
+      "publicSha256": "ef040ad0b8a659807f5d099f1b0bab019a4826d1aa8ce4b1bbd27eeffb49ec42",
+      "bytes": 7573
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_mechanism.blend",
+      "kind": "release-asset",
+      "origin": "kimi-clutch-frozen-1953/editorial/author_candidate_1953/clutch_mechanism.blend",
+      "originalSha256": "4508a8984fbdf4e812878ea828b9c67b6b5689c01b6536af773fee880b3229af",
+      "publicSha256": "4508a8984fbdf4e812878ea828b9c67b6b5689c01b6536af773fee880b3229af",
+      "bytes": 202839
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_phase.json",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/editorial/author_candidate_1953/clutch_phase.json",
+      "originalSha256": "1fc7a1254de8f0acb5044ec1f775397bffa628e0daf8a612826ba6416be28f6b",
+      "publicSha256": "1fc7a1254de8f0acb5044ec1f775397bffa628e0daf8a612826ba6416be28f6b",
+      "bytes": 103816
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_phases.py",
+      "kind": "repository",
+      "origin": "kimi-clutch-frozen-1953/editorial/author_candidate_1953/clutch_phases.py",
+      "originalSha256": "9f56c83f35b02035c9619c4d184128986a5ee4aba25f7a8951a19d433a434e5e",
+      "publicSha256": "9f56c83f35b02035c9619c4d184128986a5ee4aba25f7a8951a19d433a434e5e",
+      "bytes": 4422
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_powertrain.blend",
+      "kind": "release-asset",
+      "origin": "kimi-clutch-frozen-1953/editorial/author_candidate_1953/clutch_powertrain.blend",
+      "originalSha256": "1c04adc67c61a8169dbb22752b8ee229d6f54892db93020e15a217ddea3fda44",
+      "publicSha256": "1c04adc67c61a8169dbb22752b8ee229d6f54892db93020e15a217ddea3fda44",
+      "bytes": 4161130
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/render_patch_frames.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/render_patch_frames.py",
+      "originalSha256": "7a5843f69637f8dc2f4d39b0997d6e69e8f78244ecd1fd8a080ff1dde197b561",
+      "publicSha256": "7a5843f69637f8dc2f4d39b0997d6e69e8f78244ecd1fd8a080ff1dde197b561",
+      "bytes": 5547
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/annotate_patch.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/annotate_patch.py",
+      "originalSha256": "a1082ce73092b0236ff788c5b883217231d2f4fa8f60d2c3b3f3cd602673152f",
+      "publicSha256": "a1082ce73092b0236ff788c5b883217231d2f4fa8f60d2c3b3f3cd602673152f",
+      "bytes": 5700
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/clutch_subtitles.ass",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/clutch_subtitles.ass",
+      "originalSha256": "5b97e6cea78c619d1873420ba7edd4dd03e19346661b5645d7366470d3df972c",
+      "publicSha256": "0ffa21b6b4b4c4a95323757d20e86cbcf75eaffd4a26b67843324b76beb6e5f7",
+      "bytes": 1351
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/inspect_corrected.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/inspect_corrected.py",
+      "originalSha256": "e25aa7ed06ca3b96d13aaa568fb102c7c50f8cea497132d636a52bfbc5253522",
+      "publicSha256": "e25aa7ed06ca3b96d13aaa568fb102c7c50f8cea497132d636a52bfbc5253522",
+      "bytes": 4006
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/inspect_original.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/inspect_original.py",
+      "originalSha256": "2786339b2dae541bdb6ed83ca6a5da5a27a2ea0b29744ed5ca81620536237afe",
+      "publicSha256": "2786339b2dae541bdb6ed83ca6a5da5a27a2ea0b29744ed5ca81620536237afe",
+      "bytes": 4840
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/process/observe_original_build.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/process/observe_original_build.py",
+      "originalSha256": "5a0ec0744ea8567ee0e50bad0819bc9721e8f2f660c92bd8461b384f5c482f24",
+      "publicSha256": "5a0ec0744ea8567ee0e50bad0819bc9721e8f2f660c92bd8461b384f5c482f24",
+      "bytes": 5647
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/process/compose_process.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/process/compose_process.py",
+      "originalSha256": "baae52f87e0c68922a0a1619b99742a52310fc0c79a6feaaa2fe4e3a6e9c3b19",
+      "publicSha256": "baae52f87e0c68922a0a1619b99742a52310fc0c79a6feaaa2fe4e3a6e9c3b19",
+      "bytes": 13183
+    },
+    {
+      "path": "pilots/reboot_20261026/edit_show_v5/process/validate_process.py",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/process/validate_process.py",
+      "originalSha256": "dcc68b4a5fcaf2651413f12402312a835af8ec397d2051bfaab7dde7d02b325e",
+      "publicSha256": "dcc68b4a5fcaf2651413f12402312a835af8ec397d2051bfaab7dde7d02b325e",
+      "bytes": 3910
+    },
+    {
+      "path": "docs/cover.jpg",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/packaging/cover_1920x1080.jpg",
+      "originalSha256": "e8b34c6008b092efd257add7cb1824c658f2d1f3c7fbc9fefaddb1c9e56a83e8",
+      "publicSha256": "e8b34c6008b092efd257add7cb1824c658f2d1f3c7fbc9fefaddb1c9e56a83e8",
+      "bytes": 199214
+    },
+    {
+      "path": "docs/clutch-release.png",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/encoded_review/final_04_f3333.png",
+      "originalSha256": "0e8ef0e8befa7c05394b72692d3119d3ce8b3699dea60c7c4238a4c39fd2d751",
+      "publicSha256": "0e8ef0e8befa7c05394b72692d3119d3ce8b3699dea60c7c4238a4c39fd2d751",
+      "bytes": 1122631
+    },
+    {
+      "path": "docs/script.txt",
+      "kind": "repository",
+      "origin": "pilots/reboot_20261026/edit_show_v5/script_final.txt",
+      "originalSha256": "791937df085e54999f9ded305a8bfc9f272d5c939537259d5a0ea2938d885eec",
+      "publicSha256": "791937df085e54999f9ded305a8bfc9f272d5c939537259d5a0ea2938d885eec",
+      "bytes": 3227
+    }
+  ]
+}

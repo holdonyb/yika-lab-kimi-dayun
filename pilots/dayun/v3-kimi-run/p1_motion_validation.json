@@ -1,0 +1,11 @@
+{
+  "instantRestoreFrame": 265,
+  "restoreErrors": [],
+  "physicalEntities": 1537,
+  "camera": "Single continuous camera, no cut or flash",
+  "disabledLocationDrivers": [
+    "Clutch_ReleaseBearing"
+  ],
+  "bakeMode": "Location channels are explicitly baked; no location driver is reactivated after assembly",
+  "note": "System groups and detailed entities are checked independently at the instant of assembly"
+}

@@ -1,0 +1,18 @@
+{
+  "truck": {
+    "source": "../kimi-run/dayun_n8e.blend",
+    "frozenCopy": "assets/dayun_base_frozen.blend",
+    "sha256": "bb6929a1b1b9649888cc9d978aba281fed52ff1746d6953292946ae28a98bf25",
+    "sourceScriptSha256": "af3eefc54b41d8f111e5774fa00e24dd79e50bbf507aa660d3fb9109d71635cc",
+    "usage": "Exterior basis; old block engine and wheel groups removed; front axle semantics corrected"
+  },
+  "engine": {
+    "source": "../v2-kimi-run/engine_core.blend",
+    "frozenCopy": "assets/engine_core_frozen.blend",
+    "sha256": "dbae2ea629687b493ba1af68fa8bffbab88014ff780833a3518ae1724796f849",
+    "sourceScriptSha256": "33eb9b23b0b65cc2fb72db36468241fa7542c3fd67665400078415065c7f44f9",
+    "usage": "Installed fine inline-six core; photographic supports removed and all six liners restored"
+  },
+  "usageStatistics": "未取得官方 token 统计；主编负责核实实际 usage，本目录不使用字符数或时长估算",
+  "scope": "Original procedural mechanical display; generic internal structures, no OEM BOM or manufacturing tolerance claim"
+}

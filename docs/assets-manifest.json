@@ -1,0 +1,227 @@
+[
+  {
+    "path": "pilots/dayun/v3-kimi-run/assets/dayun_base_frozen.blend",
+    "bytes": 1884690,
+    "sha256": "bb6929a1b1b9649888cc9d978aba281fed52ff1746d6953292946ae28a98bf25"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/assets/engine_core_frozen.blend",
+    "bytes": 1119585,
+    "sha256": "dbae2ea629687b493ba1af68fa8bffbab88014ff780833a3518ae1724796f849"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/mv_cruise.blend",
+    "bytes": 4250845,
+    "sha256": "0797728635104f88726dca86ffd04e116f950dfa171457e119f34c4f77fb81b1"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/mv_detail.blend",
+    "bytes": 4253668,
+    "sha256": "de1723916d066f64a9ef3546f1ba51c3e11cecf02bc5d65f14f184d82d488eba"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/mv_turn.blend",
+    "bytes": 4252494,
+    "sha256": "c30cd65c82a487a82adba072f71703eef5d3630646abf3b3e7899993fd0a6e9e"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p1_explosion.blend",
+    "bytes": 6994864,
+    "sha256": "87e5e05422a9f6b56327931860e37f439d19d2a30b455d4ca0b494f7237b9f87"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p1_power.blend",
+    "bytes": 4182021,
+    "sha256": "c265efef395d78fb9bfc566937f2b4af19eb1705856f6711e46a7b2fcc02f2fe"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p1_wheel.blend",
+    "bytes": 4324492,
+    "sha256": "cadcf4a8641071b44131d60b26f638a0a083543f942ac277d5a5d67b857acb47"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p2_balls.blend",
+    "bytes": 4576461,
+    "sha256": "411b36e6a6c187befd4fde5f6121970507cf9c1b5a44f4ce72eff0acc7a864ab"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p2_bricks.blend",
+    "bytes": 4353245,
+    "sha256": "a74017d41fc5a7a2ce5512f22bc470b9401b28dbf960605da85d06163f8f39dc"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p2_disc_final.blend",
+    "bytes": 4279792,
+    "sha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p2_disc_physics_base.blend",
+    "bytes": 4281676,
+    "sha256": "bf29e0b853dade61fd13ae3c3e35f398dee337ee3ee349673fee9d20a6310d44"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/p2_disc_study_t1_0.blend",
+    "bytes": 4279792,
+    "sha256": "0ad56e5ea433e06edb5162c7944b496200d7f07c589926d8e080d260d4ce828c"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/truck_stage1.blend",
+    "bytes": 3575413,
+    "sha256": "c8d52b64be5e1a0cbe25e33ae42298f165cd1d1f9ad71e6b6551a23970501b4b"
+  },
+  {
+    "path": "pilots/dayun/v3-kimi-run/truck_systems.blend",
+    "bytes": 4175512,
+    "sha256": "192193f039d09e118f820318964c0d3aa1340503fcb55da6c1436e80249e6d50"
+  },
+  {
+    "path": "pilots/dayun/v4-clutch-fix/clutch_mechanism.blend",
+    "bytes": 202839,
+    "sha256": "4508a8984fbdf4e812878ea828b9c67b6b5689c01b6536af773fee880b3229af"
+  },
+  {
+    "path": "pilots/dayun/v4-clutch-fix/clutch_powertrain.blend",
+    "bytes": 4161130,
+    "sha256": "1c04adc67c61a8169dbb22752b8ee229d6f54892db93020e15a217ddea3fda44"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_mechanism.blend",
+    "bytes": 202839,
+    "sha256": "4508a8984fbdf4e812878ea828b9c67b6b5689c01b6536af773fee880b3229af"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/clutch_revision_v1/author_candidate_1953/clutch_powertrain.blend",
+    "bytes": 4161130,
+    "sha256": "1c04adc67c61a8169dbb22752b8ee229d6f54892db93020e15a217ddea3fda44"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/banana/result_camera.blend",
+    "bytes": 7814086,
+    "sha256": "977e1538dddcfeedfcc66830b4705738a733d64c14f517f1d4fe6d3735a12979"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/banana/scene.blend",
+    "bytes": 7827205,
+    "sha256": "a714c2eb5874935ce9d5c16998594d21bf606e3e90de02214e50ba989bc65438"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/breakout/scene.blend",
+    "bytes": 7793943,
+    "sha256": "28a3641881b567831e5a2884584a6388c2e1224c726b2d8a6ab4265b3e66e1d6"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/buttons/result_camera.blend",
+    "bytes": 7803269,
+    "sha256": "d414623a4b9e08076d13c036653817d1e6afa05b3d968cfb55607c2a90bb8b07"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/buttons/scene.blend",
+    "bytes": 7815616,
+    "sha256": "b5996e1c3a1c22f6d3e5506b4a1d9fb48be1dd4a47d1fba37280318bfa3013ee"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/coins/result_camera.blend",
+    "bytes": 7924071,
+    "sha256": "d3c4b32150e12aeef6eec0c5fefe23e903ad3d1d750fefc829396277431fc0ba"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/coins/scene.blend",
+    "bytes": 7936666,
+    "sha256": "388cfcaebcdb1777efdaedad9d4ad80b723843eda00086c2c38ac612f139bf45"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/crates/result_camera.blend",
+    "bytes": 7811731,
+    "sha256": "cbd7f646004d8cd1f924ae76955cbce51045c63095d941d40dca788dcddcbcef"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/crates/scene.blend",
+    "bytes": 7823716,
+    "sha256": "bf22b0d1a7e91d9e492d5f7f7d72abf999f7786555c208b4d2f74273c8fa62b9"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/danmaku/result_camera.blend",
+    "bytes": 7821410,
+    "sha256": "2d8fafe4fb69fc88a13184eeb559186d154c7ff94858f17a51eb6c0dca837843"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/danmaku/scene.blend",
+    "bytes": 7833869,
+    "sha256": "e4375b7ed296000c1cce30961384a46be4dc030974a2073b8f70624164fc31d9"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/deadline/result_camera.blend",
+    "bytes": 7846465,
+    "sha256": "bdb1686e511fffeae188485eab30eb48541668a1696c8d9275a98699aee327b8"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/deadline/scene.blend",
+    "bytes": 7859293,
+    "sha256": "f85bea917ef28f3820c1c3d310b65cfaeef122ef4ab44a8f3054c3c5b7b025e6"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/errors/result_camera.blend",
+    "bytes": 7845484,
+    "sha256": "616a35a2dda763a36b16ccd86e18a3beb6a2d34c6091f683128723215d0cef4c"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/errors/scene.blend",
+    "bytes": 7857910,
+    "sha256": "f897da2a06fc012279ab64a4d65159426345e4219288791bd1e8f98bee43fd7b"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/folders/result_camera.blend",
+    "bytes": 7829315,
+    "sha256": "d4a9bb9ce6201ff0d66dd3d50368203f8bff3c8f9eff24853bcddd82453d1a71"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/folders/scene.blend",
+    "bytes": 7840605,
+    "sha256": "a4ffb39ea102af357407b94a226c09ce7f72ae19d9a568ab5137a72037ffff6a"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/kimi_truck_frozen.blend",
+    "bytes": 7716533,
+    "sha256": "d8fa24eb7483faa7defbcd21cee331d4745ff51a8a2bdfb2fc872370f69c91b1"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/loading/result_camera.blend",
+    "bytes": 7850143,
+    "sha256": "82b34673c7d35c1dc0cc005c1fa05de7041dd3002880a62993941f362a9af92e"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/loading/scene.blend",
+    "bytes": 7863204,
+    "sha256": "017b152e917df28c27a4dd94b288a852025e6133c1162f1b10642f461cc799ca"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/revision/result_camera.blend",
+    "bytes": 7859630,
+    "sha256": "3a2a425e5bbf8f2c9eaaf4003953ad089996cebc0853f251630ecfe93b2dfb3d"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/revision/scene.blend",
+    "bytes": 7872528,
+    "sha256": "c22faeed1565a1d5424bce22d6053b76c059c05bbf27a36e7347d35a469dfe6b"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/triple/result_camera.blend",
+    "bytes": 7804556,
+    "sha256": "4d3240aefed20ccebc51238d8d4aaf8f8eafe3fb6e5ec9b23889644762617225"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/triple/scene.blend",
+    "bytes": 7816260,
+    "sha256": "8e3614f0ec97098638692ac101577409b9c11db469ade28d65b3fd12bb0d9cf2"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/vram/result_camera.blend",
+    "bytes": 7825648,
+    "sha256": "ef0e6ca1c80ac7522a865902c0232a20eec3af63e37447bf796608357334d9d8"
+  },
+  {
+    "path": "pilots/reboot_20261026/edit_show_v5/collisions/vram/scene.blend",
+    "bytes": 7837401,
+    "sha256": "dfa71cbbe31f0fcf711cc51e59e8021752a9d2567541532e07fbd8d9256895ee"
+  }
+]

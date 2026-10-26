@@ -1,0 +1,12 @@
+{
+  "kind": "loading",
+  "cache_reopen_max_position_error_m": 0,
+  "cache_baked": true,
+  "pre_1_5s_displacement_m": 0.010004997253417969,
+  "target_count": 20,
+  "targets_moved_over_25cm": 12,
+  "first_target_moves_over_12cm_frame": 45,
+  "first_target_moves_over_12cm_seconds": 1.8333333333333333,
+  "target_animation_channels": 0,
+  "pass": true
+}

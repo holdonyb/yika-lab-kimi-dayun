@@ -1,0 +1,12 @@
+{
+  "kind": "crates",
+  "cache_reopen_max_position_error_m": 0,
+  "cache_baked": true,
+  "pre_1_5s_displacement_m": 0.012032517257229322,
+  "target_count": 6,
+  "targets_moved_over_25cm": 6,
+  "first_target_moves_over_12cm_frame": 44,
+  "first_target_moves_over_12cm_seconds": 1.7916666666666667,
+  "target_animation_channels": 0,
+  "pass": true
+}
